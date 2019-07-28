@@ -1,0 +1,43 @@
+body {
+  padding-top: 50px;
+}
+
+
+.container2 {
+  padding: 40px 15px;
+}
+
+#picto-connect{
+
+	position:fixed;
+	top:5px;
+	right:5px;
+	
+}
+
+
+.navbar-collapse{
+	text-align: center;
+}
+
+#mdp-oublie{
+	text-decoration: none;
+}
+
+.nav-tabs {
+    margin-bottom: 15px;
+}
+.sign-with {
+    margin-top: 25px;
+    padding: 20px;
+}
+div#OR {
+    height: 30px;
+    width: 30px;
+    border: 1px solid #C2C2C2;
+    border-radius: 50%;
+    font-weight: bold;
+    line-height: 28px;
+    font-size: 12px;
+    background: #DFDFDF;
+}
